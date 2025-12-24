@@ -54,3 +54,4 @@ pip-selfcheck.json
 
 # Additional ignore
 ~*.pptx
+.DS_Store
