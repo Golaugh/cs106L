@@ -55,3 +55,7 @@ pip-selfcheck.json
 # Additional ignore
 ~*.pptx
 .DS_Store
+.exe
+c_cpp_properties.json
+launch.json
+tasks.json
