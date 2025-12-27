@@ -1,7 +1,8 @@
-template <typename TIterator, typename TValue>
-TIterator find(TIterator begin, TIterator end, TValue value) {
-    for (auto it = begin; it != end; ++it) {
-        if (*it == value) return it;
-    }
-    return end;
+#include <iostream>
+
+int main() {
+    if consteval { std::cout << "consteval works" << std::endl; }
+    std::cout << __cplusplus << std::endl;
+    system("pause");
+    return 0;
 }
