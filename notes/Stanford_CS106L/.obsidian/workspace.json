@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e5fc0811750ead72",
@@ -185,6 +186,7 @@
   },
   "active": "e718bba1ca395c1a",
   "lastOpenFiles": [
+    "Pasted image 20260103203240.png",
     "Pasted image 20251230143859.png",
     "cover.png",
     "CS106L_9&10.md"
